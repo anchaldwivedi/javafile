@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[1]]>
+    </line>
+    <line>
+      <![CDATA[2]]>
+    </line>
+    <line>
+      <![CDATA[3]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23" started-at="2022-01-30T04:55:16Z" finished-at="2022-01-30T04:55:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23" started-at="2022-01-30T04:55:16Z" finished-at="2022-01-30T04:55:16Z">
+      <class name="TestiNG.Trial">
+        <test-method status="PASS" signature="test()[pri:0, instance:TestiNG.Trial@5034c75a]" name="test" duration-ms="7" started-at="2022-01-30T10:25:16Z" finished-at="2022-01-30T10:25:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:TestiNG.Trial@5034c75a]" name="test1" duration-ms="1" started-at="2022-01-30T10:25:16Z" finished-at="2022-01-30T10:25:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:TestiNG.Trial@5034c75a]" name="test3" duration-ms="1" started-at="2022-01-30T10:25:16Z" finished-at="2022-01-30T10:25:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- TestiNG.Trial -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
